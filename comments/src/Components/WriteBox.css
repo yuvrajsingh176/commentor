@@ -1,0 +1,23 @@
+.write-box{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+margin-bottom: 1rem;
+border-radius: 4px;
+
+}
+#textarea{
+    background: transparent;
+resize: none;
+color: black;
+}
+.reply-btn button{
+    background-color: blueviolet;
+}
+.auth-input{
+    background: transparent;
+    resize: none;
+    color: black;
+    height:3rem;
+    width: auto;
+}

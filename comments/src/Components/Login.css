@@ -1,0 +1,37 @@
+/* AuthForm.css */
+.auth-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .auth-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .auth-label {
+    margin-bottom: 8px;
+  }
+  
+  .auth-input {
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .auth-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .auth-toggle {
+    color: #4caf50;
+    cursor: pointer;
+    margin-top: 16px;
+  }
+  .label{
+    color: black;
+  }

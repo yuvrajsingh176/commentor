@@ -1,0 +1,9 @@
+.reply{
+    margin-left: 4rem;
+    display: flex;
+    background-color: white;
+    padding: 0.5rem;
+    border-radius: 4px;
+    width: 30rem;
+    margin-bottom: 1rem;
+}

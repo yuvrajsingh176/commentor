@@ -1,0 +1,45 @@
+.commentbox{
+    display: flex;
+background-color: white;
+padding: 0.5rem;
+border-radius: 4px;
+width: 30rem;
+margin-bottom: 1rem;
+}
+.plus-minus{
+    display: flex;
+flex-direction: column; 
+background-color: #f5f6fa;
+border-radius: 5px;
+height: 5rem;
+width: 2rem;
+justify-content: space-around;
+
+}
+.left-section{
+    color: hsl(238, 40%, 52%);
+    display: flex;
+    align-items: center;
+    font-size: 0.7rem;
+}
+.left-section img{
+    height: 2rem;
+    width: 2rem;
+}
+.id-d-reply{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: hsl(238, 40%, 52%);
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+#mytextarea{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: black;
+    width: fit-content;
+    margin-left: 1rem;
+    resize: none;
+}
